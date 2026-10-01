@@ -1,4 +1,5 @@
-##Java task management library with a command-line demo.
+
+## Java task management library with command-line demo
 
 ## Features
 - Task model with priority levels and due dates
