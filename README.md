@@ -1,19 +1,12 @@
-# Java Task Manager
-
-A command-line task management application built in Java.
+##Java task management library with a command-line demo.
 
 ## Features
-- Add, delete, and complete tasks
-- Sort tasks by priority or due date
+- Task model with priority levels and due dates
+- Sorting by priority or due date
+- Add, delete, and complete operations
 - Saves to disk between sessions using Java serialization
+- Unit tests with JUnit 5
 
-## How to Run
-
-
-
-## Tests
-
-Unit tests written with JUnit 5, covering task creation, sorting,
-and serialization.
-
-
+## Running the Demo
+Main.java loads a sample set of tasks and prints them sorted
+by priority and by due date.
