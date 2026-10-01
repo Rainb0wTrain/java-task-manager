@@ -8,7 +8,12 @@ A command-line task management application built in Java.
 - Saves to disk between sessions using Java serialization
 
 ## How to Run
-Compile and run Main.java in any Java IDE or from the command line.
-EOF
+
+
+
+## Tests
+
+Unit tests written with JUnit 5, covering task creation, sorting,
+and serialization.
 
 
