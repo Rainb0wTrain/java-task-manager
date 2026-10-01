@@ -1,4 +1,3 @@
-# Task Manager
 # Java CLI Task Manager
 
 A command-line task management application built in Java.
